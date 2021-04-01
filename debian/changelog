@@ -1,3 +1,10 @@
+vulkan-tools (1.2.162.0+dfsg1-1atari0) atari; urgency=medium
+
+  * Import from Debian bullseye.
+  * Set component to development.
+
+ -- Apertis package maintainers <packagers@lists.apertis.org>  Thu, 01 Apr 2021 09:17:51 +0200
+
 vulkan-tools (1.2.162.0+dfsg1-1) unstable; urgency=medium
 
   * New upstream release.
